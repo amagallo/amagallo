@@ -12,8 +12,8 @@ Since then, my vocation has centered on understanding how information flows in t
 - **Computational Modeling:** Biologically inspired neural networks, human connectome analysis, and brain-inspired computational architectures.
 
 ## 🚀 Experience
-- **Bachelor’s Thesis:**: Verification of neuromorphic hardware with Siemens PartQuest simulation, Z3 SMT formal methodology, and Python APIs for symbolic modeling of VHDL-AMS, to comply with DO-254 bidirectional traceability.
-- **Compiler Development:** Designed a compiler for a procedural language with AST construction, reflection-based recursive processing, and a custom virtual machine.
+- **Bachelor’s Thesis:** Verification of neuromorphic hardware by Siemens PartQuest simulation, Z3 SMT formal methodology, and Python APIs for symbolic modeling of VHDL-AMS, to comply with DO-254 bidirectional traceability.
+- **Compiler Development:** Designed a compiler for a procedural language with AST construction, reflection-based recursive processing, and a custom-made virtual machine.
 - **Game Development:** Built console-based games in C++ with ANSI escape sequences and Windows API, focusing on performance and interactive graphics.
 - **Functional Data Structures:** Implemented a purely functional hash table in Haskell using Mersenne primes, based on academic research.
 
