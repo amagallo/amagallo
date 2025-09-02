@@ -18,4 +18,4 @@ Since then, my vocation has centered on understanding how information flows in t
 - **Functional Data Structures:** Implemented a purely functional hash table in Haskell using Mersenne primes, based on academic research.
 
 ## 🤝 Values
-My commitment to science is inseparable from my commitment to people. From my point of view, building bridges between minds also means standing with those whose voices are hardest to hear. This conviction grounds my professional vision: creating systems that don’t just work, but that reflect **rigor, humanity, and responsibility**. I see technology not only as a tool for ensuring that innovation carries an ethical and human dimension.
+My commitment to science is inseparable from my commitment to people. From my point of view, building bridges between minds also means standing with those whose voices are hardest to hear. This conviction grounds my professional vision: creating systems that don’t just work, but that reflect **rigor, humanity, and responsibility**. I firmly believe that innovation must be guided by ethics and humanity.
