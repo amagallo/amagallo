@@ -4,10 +4,10 @@
 Since I was 12, psychology has fascinated me as a way to understand the invisible: what we feel, think, and remember. During my Computer Engineering studies, I discovered **Computational Psychology**, where rigorous computer science meets the study of the mind. This vocation has led me to explore biologically inspired models such as Hopfield networks, Kohonen maps, and connectomics.  
 
 ## 🛠 Skills  
-- **Formal Verification & Hardware Design:** DO-254/DO-333 flows, requirements traceability, VHDL-AMS simulation, Z3 SMT solving, and MBSE.  
-- **Programming:** Python, Java, C++, Haskell, Elixir.  
-- **Mathematics:** Linear algebra, logic, symbolic reasoning, and category theory.  
-- **Computational Modeling:** Biologically inspired neural networks and cognitive architectures.
+- **Hardware Design & Verification:** DO-254/DO-333 flows, requirements traceability, VHDL-AMS simulation, Z3 SMT theorem proving, and MBSE.  
+- **Programming:** Python, Java, C++, Haskell, Elixir.
+- **Mathematics:** Linear algebra, logic, symbolic reasoning, and category theory.
+- **Computational Modeling:** Biologically inspired neural networks and brain-inspired computational architectures.
 
 ## 🚀 Experience  
 - **Bachelor’s Thesis:**: Formal verification of neuromorphic hardware with VHDL-AMS simulation, Z3 SMT solving, and Python APIs for DO-254 traceability.  
