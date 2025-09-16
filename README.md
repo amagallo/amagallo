@@ -4,19 +4,15 @@ In my professional life, I’m always driven by the following question:
 
 > *How can we model the mind, with all its emergent logic, memory, and constraints, using the rigor of hardware, mathematics, and systems design?*
 
----
-
 ## 🧠 What defines my work
 
 Since my teenage years, I’ve seen the mind not as something separate from matter, but as a formal, modelable structure emerging from it. That vision took shape during my Computer Engineering studies, where I developed a strong interest in the intersection between Computer Science and Psychology, ultimately focusing on **hardware-level emulation and verification** of cognitive architectures.
 
 My projects aim to bridge **symbolic rigor with neural realism**, not just by mimicking the brain, but by developing interpretable architectures that respect cognitive dynamics. My work emphasizes **traceability, formal verification, symbolic modeling**, and **biologically inspired system behavior**.
 
----
-
 ## 🔍 What I build
 
-### 🧪 Neuromorphic Hardware Verification  
+### 🧪 Neuromorphic Hardware Development  
 - Simulated VHDL-AMS circuits representing simplified neuronal dynamics  
 - Symbolic translation of analog behavior into SMT constraints using Z3  
 - Full traceability graph (Requirements → Properties → Implementation → Verification)  
@@ -24,9 +20,7 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 
 > *“The final traceability model came to me while gazing out the window — I realized the project wasn’t just about circuits, but about epistemology: how we know that what we’ve built works as we intended.”*
 
----
-
-### 🧠 Connectomics Modeling  
+### 🧠 Human Connectome Analysis 
 - Analyzed effective connectomes using Rolls & Deco’s resting-state algorithm  
 - Parsed HCP S1200 data; parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
 - Extracted both resting-state and gambling task networks  
@@ -34,30 +28,24 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 
 > *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
 
----
-
-### 🧱 Systems Architecture & Language Engineering  
-- Designed a full compiler toolchain for a procedural language (Tiny)  
+### 🧱 Tiny Compiler Design
+- Designed a full compiler toolchain for Tiny, a procedural programming language  
 - AST implementation in Java 17 using record types, memoized reflection dispatch  
-- Custom p-code virtual machine with typed instructions, stack frames, memory manager  
-- Structured types (arrays, records, pointers), by-ref / by-val handling, exception control  
-- VM memory modeled on two-level lock-free structures with FAT-style dynamic heap
+- Custom p-code virtual machine (VM) with typed instructions, stack frames, memory manager  
+- Structured types (arrays, records, pointers), by-reference / by-value handling, exception control  
+- VM memory modeled on two-level RAM structures with FAT-style dynamic heap
 
 > *“Designing a language from scratch was an act of storytelling — every type system, every control structure, every stack overflow handler was a choice about how logic should flow.”*
 
----
-
 ## 🛠 Technical Stack
 
-I don't see technologies as labels — I see them as **ways to shape systems**:
+I don't see technologies as labels, I see them as **ways to shape systems**:
 
 - **Formal Methods**: Z3, SMT, logical modeling, invariants, assertions  
 - **Hardware Design**: VHDL-AMS, Siemens PartQuest, MBSE, DO-254/DO-333  
 - **Languages**: Python, Java, Haskell, Elixir, C++, DSL design  
 - **Mathematics**: symbolic systems, algebra, graph theory, category theory  
 - **Modeling**: connectomics, artificial neural systems, verification pipelines
-
----
 
 ## 🌍 What I believe
 
