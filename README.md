@@ -19,7 +19,7 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - **Full traceability** graph (Requirements → Properties → Implementation → Verification)  
 - **Compliance** with DO-254 and DO-333 standards (critical systems engineering)
 
-___
+---
 
 ### 🧱 Tiny Compiler Design
 
@@ -31,6 +31,8 @@ ___
 
 📁 [Source Code on GitHub](https://github.com/amagallo/tiny-compiler)
 
+---
+
 ### 🔢 Purely Functional Hashing
 
 - **Interactive console application** in Haskell implementing a hash table based on Mersenne primes
@@ -41,11 +43,15 @@ ___
 
 📁 [Source Code on GitHub](https://gist.github.com/amagallo/f15bf0258bc8da12a8103a4e13c6b149)
 
+---
+
 ### 🧠 Human Connectome Analysis 
 - Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
 - Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
 - Extracted both **resting-state** and **task-related** networks  
 - Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
+
+---
 
 ### ⛏ Mining Game Programming
 
