@@ -12,7 +12,8 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 ## 🔍 What I build
 
-### 🧪 Neuromorphic Hardware Development  
+### 🧪 Neuromorphic Hardware Development
+ 
 - **Circuit simulation** of circuits in VHDL-AMS representing simplified neuronal dynamics  
 - **Symbolic translation** of analog behavior into SMT constraints using Z3  
 - **Full traceability** graph (Requirements → Properties → Implementation → Verification)  
@@ -20,15 +21,8 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 > *“The final traceability model came to me while gazing out the window — I realized the project wasn’t just about circuits, but about epistemology: how we know that what we’ve built works as we intended.”*
 
-### 🧠 Human Connectome Analysis 
-- Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
-- Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
-- Extracted both **resting-state** and **task-related** networks  
-- Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
-
-> *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
-
 ### 🧱 Tiny Compiler Design
+
 - Designed a **full compiler toolchain** for **Tiny**, a procedural programming language  
 - **AST implementation** in Java 17 using record types, memoized reflection dispatch  
 - Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
@@ -46,6 +40,20 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - Used **balanced trees** as array substitutes to achieve logarithmic-time access
 
 > *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
+
+🌍 What I believe
+
+> “Technology should be rigorous — and human.
+Not just correct, but interpretable.
+Not just fast, but meaningful.”
+
+
+
+I believe that building systems isn’t just about logic — it’s about responsibility.
+Creating technology that mirrors the mind requires not only formal control, but also a sense of care: for how we think, how we live, and how we relate to one another.
+
+My commitment to science is inseparable from my commitment to people.
+I see engineering not as an abstract discipline, but as a way to build bridges between minds — combining aerospace-level discipline, philosophical clarity, and human-centered design to shape systems that reflect both rigor and empathy.
 
 ### ⛏ Mining Game Programming
 
@@ -67,15 +75,11 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 ## 🌍 What I believe
 
-> *“Technology should be rigorous, but human.  
-Not just correct, but interpretable.  
-Not just fast, but meaningful.”*
+> “Technology should be rigorous, and human.
+Not just correct, but interpretable.
+Not just fast, but meaningful.”
 
-I believe in designing systems that **mirror our cognitive structure without losing formal control**.  
-That means bringing together aerospace-level discipline, philosophical questions, and human-centered design.
+I believe that building systems isn’t just about logic, it’s about responsibility.
+Creating technology that mirrors the mind requires not only formal control, but also a sense of care: for how we think, how we live, and how we relate to one another.
 
-If you’re working at the intersection of formal methods, cognitive architecture, or safety-critical systems, I’d love to connect.
-
----
-
-📫 [LinkedIn](https://www.linkedin.com/in/alvaro-magallo-paz) · 🌐 GitHub Projects below ↓
+My commitment to science is inseparable from my commitment to people. I see engineering not as an abstract discipline, but as a way to **build bridges between minds**, combining **aerospace-level discipline**, **philosophical clarity**, and **human-centered design** to shape systems that reflect both **rigor and empathy**.
