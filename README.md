@@ -33,13 +33,13 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 - AST implementation in Java 17 using record types, memoized reflection dispatch  
 - Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
 - Structured types (arrays, records, pointers), by-reference / by-value handling, exception control  
-- VM memory modeled on two-level RAM structures with FAT-style dynamic heap
+- VM memory modeled on **two-level RAM** structures with FAT-style **dynamic heap**
 
 > *“Designing a language from scratch was an act of storytelling — every type system, every control structure, every stack overflow handler was a choice about how logic should flow.”*
 
 ### 🔢 Purely Functional Hashing
 
-- Interactive console application in Haskell implementing a hash table based on Mersenne primes
+- **Interactive console application** in Haskell implementing a hash table based on Mersenne primes
 - Built custom **big integer API** with boolean lists and using Karatsuba multiplication
 - Implemented optimized **Lucas-Lehmer test** for prime verification
 - Integrated advanced remainder algorithms specific for Mersenne-like numbers
@@ -54,7 +54,7 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 - Rebuilt UI with escape sequences for a dynamic **retro feel**
 - Designed full player-facing interface with authentication, score tracking, and session persistence
 - Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
-- Switchable board sizes enabled different cognitive perspectives for level solving
+- **Switchable board sizes** enabled different cognitive perspectives for level solving
 
 > *“Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”*
 
