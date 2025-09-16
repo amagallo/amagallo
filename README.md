@@ -63,9 +63,7 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 ## 🌍 What I believe
 
-> “Technology should be rigorous, and human.
-Not just correct, but interpretable.
-Not just fast, but meaningful.”
+> *Technology should be rigorous, and human. Not just correct, but interpretable. Not just fast, but meaningful.*
 
 I believe that building systems isn’t just about logic, it’s about responsibility.
 Creating technology that mirrors the mind requires not only formal control, but also a sense of care: for how we think, how we live, and how we relate to one another.
