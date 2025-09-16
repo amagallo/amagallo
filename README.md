@@ -41,19 +41,13 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 > *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
 
-🌍 What I believe
+### 🧠 Human Connectome Analysis 
+- Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
+- Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
+- Extracted both **resting-state** and **task-related** networks  
+- Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
 
-> “Technology should be rigorous — and human.
-Not just correct, but interpretable.
-Not just fast, but meaningful.”
-
-
-
-I believe that building systems isn’t just about logic — it’s about responsibility.
-Creating technology that mirrors the mind requires not only formal control, but also a sense of care: for how we think, how we live, and how we relate to one another.
-
-My commitment to science is inseparable from my commitment to people.
-I see engineering not as an abstract discipline, but as a way to build bridges between minds — combining aerospace-level discipline, philosophical clarity, and human-centered design to shape systems that reflect both rigor and empathy.
+> *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
 
 ### ⛏ Mining Game Programming
 
