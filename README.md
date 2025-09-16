@@ -6,9 +6,9 @@ In my professional life, I’m always driven by the following question:
 
 ## 🧠 What defines my work
 
-Since my teenage years, I’ve seen the mind not as something separate from matter, but as a formal, modelable structure emerging from it. That vision took shape during my Computer Engineering studies, where I developed a strong interest in the intersection between Computer Science and Psychology, ultimately focusing on **hardware-level emulation and verification** of cognitive architectures.
+Since my teenage years, I’ve viewed the mind as a modelable structure emerging from matter, not as something separate from it. During my Computer Engineering studies, that idea evolved into a deep interest in the intersection between Computer Science and Psychology, leading me to focus on hardware-level emulation and formal verification of cognitive architectures.
 
-My projects aim to bridge **symbolic rigor with neural realism**, not just by mimicking the brain, but by developing interpretable architectures that respect cognitive dynamics. My work emphasizes **traceability, formal verification, symbolic modeling**, and **biologically inspired system behavior**.
+My work bridges symbolic rigor and neural realism, developing interpretable systems that respect cognitive dynamics through traceability, formal methods, symbolic modeling, and biologically inspired design.
 
 ## 🔍 What I build
 
