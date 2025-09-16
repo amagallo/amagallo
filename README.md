@@ -27,6 +27,8 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - **Structured types** (arrays, records, pointers), by-reference / by-value handling, exception control  
 - VM memory modeled on **two-level RAM** structures with FAT-style **dynamic heap**
 
+🔗 [Source Code on GitHub](https://github.com/amagallo/tiny-compiler)
+
 ### 🔢 Purely Functional Hashing
 
 - **Interactive console application** in Haskell implementing a hash table based on Mersenne primes
@@ -34,6 +36,8 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - Implemented optimized **Lucas-Lehmer test** for prime verification
 - Integrated advanced **remainder algorithms** specific for Mersenne-like numbers
 - Used **balanced trees** as array substitutes to achieve logarithmic-time access
+
+🔗 [Source Code on GitHub](https://gist.github.com/amagallo/f15bf0258bc8da12a8103a4e13c6b149)
 
 ### 🧠 Human Connectome Analysis 
 - Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
