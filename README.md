@@ -40,32 +40,23 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 ### 🔢 Purely Functional Hashing
 
 - Interactive console application in Haskell implementing a hash table based on Mersenne primes
-
 - Built custom big integer API with boolean lists and Karatsuba multiplication
-
 - Implemented optimized Lucas-Lehmer test for prime verification
-
 - Integrated advanced remainder algorithms specific for Mersenne-like numbers
-
 - Used balanced trees as array substitutes to achieve logarithmic-time access
 
 
-> “This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”
+> *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
 
 ### ⛏ Mining Game Programming
 
 - Console-based mining game in C++ for Windows, rendered entirely in ANSI-colored ASCII
-
 - Rebuilt UI with escape sequences for a dynamic retro feel
-
 - Designed full player-facing interface with authentication, score tracking, and session persistence
-
 - Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
-
 - Switchable board sizes enabled different cognitive perspectives for level solving
 
-
-> “Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”
+> *“Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”*
 
 ## 🛠 Technical Stack
 
