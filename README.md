@@ -29,7 +29,7 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 > *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
 
 ### 🧱 Tiny Compiler Design
-- Designed a **full compiler** toolchain for **Tiny**, a procedural programming language  
+- Designed a **full compiler toolchain** for **Tiny**, a procedural programming language  
 - **AST implementation** in Java 17 using record types, memoized reflection dispatch  
 - Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
 - **Structured types** (arrays, records, pointers), by-reference / by-value handling, exception control  
@@ -45,15 +45,14 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 - Integrated advanced **remainder algorithms** specific for Mersenne-like numbers
 - Used **balanced trees** as array substitutes to achieve logarithmic-time access
 
-
 > *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
 
 ### ⛏ Mining Game Programming
 
 - **Console-based mining game** in C++ for Windows, rendered entirely in **ANSI-colored** ASCII
-- **Rebuilt UI** with escape sequences for a dynamic retro feel
+- **Rebuilt UI** with escape sequences for a dynamic **retro feel**
 - Designed **full player-facing interface** with authentication, score tracking, and session persistence
-- **Gameplay** featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
+- Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
 - **Switchable board sizes** enabled different cognitive perspectives for level solving
 
 > *“Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”*
