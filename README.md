@@ -8,7 +8,7 @@ In my professional life, I’m always driven by the following question:
 
 Since my teenage years, I’ve viewed the mind as a modelable structure **emerging** from matter, not as something separate from it. During my **Computer Engineering** studies, that idea evolved into a deep interest in the intersection between Computer Science and Psychology, leading me to focus on **hardware-level emulation and formal verification** of cognitive architectures.
 
-My work bridges **symbolic rigor and neural realism**, developing interpretable systems that respect **cognitive dynamics** through **traceability**, **formal methods**, **symbolic modeling**, and **biologically inspired design**.
+My work bridges **symbolic rigor and neural realism**, developing interpretable systems that respect cognitive dynamics through **traceability**, **formal methods**, **symbolic modeling**, and **biologically inspired design**.
 
 ## 🔍 What I build
 
