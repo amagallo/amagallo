@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Álvaro Magalló Paz
 
-As someone passionate for Computational Psychology, I’m driven the following question:
+In my professional life, I’m always driven by the following question:
 
 > *How can we model the mind, with all its emergent logic, memory, and constraints, using the rigor of hardware, mathematics, and systems design?*
 
