@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Álvaro Magalló Paz
 
-As someone passionate for Computational Psychology, I’m driven the following question: *How can we model the mind, with all its emergent logic, memory, and constraints, using the rigor of hardware, mathematics, and systems design?*
+As someone passionate for Computational Psychology, I’m driven the following question:
+
+> *How can we model the mind, with all its emergent logic, memory, and constraints, using the rigor of hardware, mathematics, and systems design?*
 
 
 ## 🧠 What defines my work
@@ -58,7 +60,7 @@ I don't see technologies as labels — I see them as **ways to shape systems**:
 
 ## 🌍 What I believe
 
-> *“Technology should be rigorous — and human.  
+> *“Technology should be rigorous, but human.  
 Not just correct, but interpretable.  
 Not just fast, but meaningful.”*
 
