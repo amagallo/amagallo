@@ -30,9 +30,9 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 
 ### 🧱 Tiny Compiler Design
 - Designed a **full compiler** toolchain for **Tiny**, a procedural programming language  
-- AST implementation in Java 17 using record types, memoized reflection dispatch  
+- **AST implementation** in Java 17 using record types, memoized reflection dispatch  
 - Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
-- Structured types (arrays, records, pointers), by-reference / by-value handling, exception control  
+- **Structured types** (arrays, records, pointers), by-reference / by-value handling, exception control  
 - VM memory modeled on **two-level RAM** structures with FAT-style **dynamic heap**
 
 > *“Designing a language from scratch was an act of storytelling — every type system, every control structure, every stack overflow handler was a choice about how logic should flow.”*
@@ -42,7 +42,7 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 - **Interactive console application** in Haskell implementing a hash table based on Mersenne primes
 - Built custom **big integer API** with boolean lists and using Karatsuba multiplication
 - Implemented optimized **Lucas-Lehmer test** for prime verification
-- Integrated advanced remainder algorithms specific for Mersenne-like numbers
+- Integrated advanced **remainder algorithms** specific for Mersenne-like numbers
 - Used **balanced trees** as array substitutes to achieve logarithmic-time access
 
 
