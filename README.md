@@ -19,6 +19,8 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - **Full traceability** graph (Requirements → Properties → Implementation → Verification)  
 - **Compliance** with DO-254 and DO-333 standards (critical systems engineering)
 
+___
+
 ### 🧱 Tiny Compiler Design
 
 - Designed a **full compiler toolchain** for **Tiny**, a procedural programming language  
