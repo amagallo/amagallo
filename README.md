@@ -19,8 +19,6 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - **Full traceability** graph (Requirements → Properties → Implementation → Verification)  
 - **Compliance** with DO-254 and DO-333 standards (critical systems engineering)
 
-> *“The final traceability model came to me while gazing out the window — I realized the project wasn’t just about circuits, but about epistemology: how we know that what we’ve built works as we intended.”*
-
 ### 🧱 Tiny Compiler Design
 
 - Designed a **full compiler toolchain** for **Tiny**, a procedural programming language  
@@ -28,8 +26,6 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
 - **Structured types** (arrays, records, pointers), by-reference / by-value handling, exception control  
 - VM memory modeled on **two-level RAM** structures with FAT-style **dynamic heap**
-
-> *“Designing a language from scratch was an act of storytelling — every type system, every control structure, every stack overflow handler was a choice about how logic should flow.”*
 
 ### 🔢 Purely Functional Hashing
 
@@ -39,15 +35,11 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - Integrated advanced **remainder algorithms** specific for Mersenne-like numbers
 - Used **balanced trees** as array substitutes to achieve logarithmic-time access
 
-> *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
-
 ### 🧠 Human Connectome Analysis 
 - Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
 - Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
 - Extracted both **resting-state** and **task-related** networks  
 - Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
-
-> *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
 
 ### ⛏ Mining Game Programming
 
@@ -56,8 +48,6 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 - Designed **full player-facing interface** with authentication, score tracking, and session persistence
 - Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
 - **Switchable board sizes** enabled different cognitive perspectives for level solving
-
-> *“Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”*
 
 ## 🛠 Technical Stack
 
