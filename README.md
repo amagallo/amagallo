@@ -4,12 +4,13 @@ In my professional life, I’m always driven by the following question:
 
 > *How can we model the mind, with all its emergent logic, memory, and constraints, using the rigor of hardware, mathematics, and systems design?*
 
+---
 
 ## 🧠 What defines my work
 
-Since my teenage years, I’ve seen psychology not as speculation, but as a formal, modelable structure. That vision found its path during my Computer Engineering studies, where I discovered **Computational Psychology**, and eventually focused on **hardware-level emulation and verification** of cognitive architectures.
+Since my teenage years, I’ve seen the mind not as something separate from matter, but as a formal, modelable structure emerging from it. That vision took shape during my Computer Engineering studies, where I developed a strong interest in the intersection between Computer Science and Psychology, ultimately focusing on **hardware-level emulation and verification** of cognitive architectures.
 
-My projects seek to bridge **symbolic rigor and neural realism** — not by mimicking the brain, but by developing interpretable architectures that respect the mind’s dynamics. I focus on traceability, formal verification, symbolic modeling, and biologically-inspired system behavior.
+My projects aim to bridge **symbolic rigor with neural realism**, not just by mimicking the brain, but by developing interpretable architectures that respect cognitive dynamics. My work emphasizes **traceability, formal verification, symbolic modeling**, and **biologically inspired system behavior**.
 
 ---
 
