@@ -13,25 +13,25 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 ## 🔍 What I build
 
 ### 🧪 Neuromorphic Hardware Development  
-- Simulated VHDL-AMS circuits representing simplified neuronal dynamics  
-- Symbolic translation of analog behavior into SMT constraints using Z3  
-- Full traceability graph (Requirements → Properties → Implementation → Verification)  
-- Compliance with DO-254 and DO-333 standards (critical systems engineering)
+- **Circuit simulation** of circuits in VHDL-AMS representing simplified neuronal dynamics  
+- **Symbolic translation** of analog behavior into SMT constraints using Z3  
+- **Full traceability** graph (Requirements → Properties → Implementation → Verification)  
+- **Compliance** with DO-254 and DO-333 standards (critical systems engineering)
 
 > *“The final traceability model came to me while gazing out the window — I realized the project wasn’t just about circuits, but about epistemology: how we know that what we’ve built works as we intended.”*
 
 ### 🧠 Human Connectome Analysis 
-- Analyzed effective connectomes using Rolls & Deco’s resting-state algorithm  
-- Parsed HCP S1200 data; parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
-- Extracted both resting-state and gambling task networks  
-- Axial visualization of connectomes, aligned with dynamic fluctuations in functional connectivity
+- Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
+- Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
+- Extracted both **resting-state** and **task-related** networks  
+- Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
 
 > *“Connectome modeling taught me how even chaotic systems leave mathematical fingerprints — and that those fingerprints tell stories.”*
 
 ### 🧱 Tiny Compiler Design
-- Designed a full compiler toolchain for Tiny, a procedural programming language  
+- Designed a **full compiler** toolchain for **Tiny**, a procedural programming language  
 - AST implementation in Java 17 using record types, memoized reflection dispatch  
-- Custom p-code virtual machine (VM) with typed instructions, stack frames, memory manager  
+- Custom **p-code virtual machine** with typed instructions, stack frames, memory manager  
 - Structured types (arrays, records, pointers), by-reference / by-value handling, exception control  
 - VM memory modeled on two-level RAM structures with FAT-style dynamic heap
 
@@ -40,18 +40,18 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 ### 🔢 Purely Functional Hashing
 
 - Interactive console application in Haskell implementing a hash table based on Mersenne primes
-- Built custom big integer API with boolean lists and Karatsuba multiplication
-- Implemented optimized Lucas-Lehmer test for prime verification
+- Built custom **big integer API** with boolean lists and using Karatsuba multiplication
+- Implemented optimized **Lucas-Lehmer test** for prime verification
 - Integrated advanced remainder algorithms specific for Mersenne-like numbers
-- Used balanced trees as array substitutes to achieve logarithmic-time access
+- Used **balanced trees** as array substitutes to achieve logarithmic-time access
 
 
 > *“This project brought me close to the edge where theory meets implementation — making number theory executable, and purity performant.”*
 
 ### ⛏ Mining Game Programming
 
-- Console-based mining game in C++ for Windows, rendered entirely in ANSI-colored ASCII
-- Rebuilt UI with escape sequences for a dynamic retro feel
+- Console-based mining game in C++ for Windows, rendered entirely in **ANSI-colored** ASCII
+- Rebuilt UI with escape sequences for a dynamic **retro feel**
 - Designed full player-facing interface with authentication, score tracking, and session persistence
 - Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
 - Switchable board sizes enabled different cognitive perspectives for level solving
