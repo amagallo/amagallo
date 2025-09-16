@@ -50,10 +50,10 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 
 ### ⛏ Mining Game Programming
 
-- Console-based mining game in C++ for Windows, rendered entirely in **ANSI-colored** ASCII
-- Rebuilt UI with escape sequences for a dynamic **retro feel**
-- Designed full player-facing interface with authentication, score tracking, and session persistence
-- Gameplay featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
+- **Console-based mining game** in C++ for Windows, rendered entirely in **ANSI-colored** ASCII
+- **Rebuilt UI** with escape sequences for a dynamic retro feel
+- Designed **full player-facing interface** with authentication, score tracking, and session persistence
+- **Gameplay** featured gem collection, obstacles, gravity-based physics, TNT clearing, and strategic scoring
 - **Switchable board sizes** enabled different cognitive perspectives for level solving
 
 > *“Combining low-level logic with visual storytelling taught me how design principles can emerge even in text-mode graphics.”*
