@@ -59,8 +59,6 @@ My projects aim to bridge **symbolic rigor with neural realism**, not just by mi
 
 ## 🛠 Technical Stack
 
-I don't see technologies as labels, I see them as **ways to shape systems**:
-
 - **Formal Methods**: Z3, SMT, logical modeling, invariants, assertions  
 - **Hardware Design**: VHDL-AMS, Siemens PartQuest, MBSE, DO-254/DO-333  
 - **Languages**: Python, Java, Haskell, Elixir, C++, DSL design  
