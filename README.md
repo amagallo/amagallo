@@ -41,7 +41,7 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 
 ### 🧠 Human Connectome Analysis 
 - Analyzed **effective connectivity** using Rolls & Deco’s resting-state algorithm  
-- Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas (180×2 ROIs)  
+- Processed HCP S1200 data and parcellated brain maps using the extended HCPex atlas  
 - Extracted both **resting-state** and **task-related** networks  
 - Axial **visualization** of connectomes, aligned with dynamic fluctuations in functional connectivity
 
