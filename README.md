@@ -1,4 +1,4 @@
-🇬🇧 **English** | 🇪🇸 [Español](./README.es.md)
+<center>🇬🇧 **English**  |  🇪🇸 [Español](./README.es.md)</center>
 
 # 👋 Hi, I’m Álvaro Magalló Paz
 
