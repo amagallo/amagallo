@@ -68,4 +68,4 @@ My work bridges **symbolic rigor and neural realism**, developing interpretable 
 I believe that building systems isn’t just about logic, it’s about responsibility.
 Creating technology that mirrors the mind requires not only formal control, but also a sense of care: for how we think, how we live, and how we relate to one another.
 
-My commitment to science is inseparable from my commitment to people. I see engineering not as an abstract discipline, but as a way to **build bridges between minds**, combining **aerospace-level discipline**, **philosophical clarity**, and **human-centered design** to shape systems that reflect both **rigor and empathy**.
+I see scientific work as a human dilemma, a way to shape tools that serve both understanding and compassion. Engineering isn't just an abstract discipline, but a way to **build bridges between minds**, combining **aerospace-level discipline**, **philosophical clarity**, and **human-centered design** to shape systems that reflect both **rigor and empathy**.
