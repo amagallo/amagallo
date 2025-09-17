@@ -1,3 +1,5 @@
+🇬🇧 [English](./README.md) • 🇪🇸 **Español**
+
 # 👋 Hola, soy Álvaro Magalló Paz
 
 En mi vida profesional, siempre me guía esta pregunta:
