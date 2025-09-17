@@ -1,3 +1,5 @@
+🇪🇸 ¿Prefieres leer esto en español? 👉 [Versión en español](./README.es.md)
+
 # 👋 Hi, I’m Álvaro Magalló Paz
 
 In my professional life, I’m always driven by the following question:
