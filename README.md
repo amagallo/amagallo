@@ -1,6 +1,4 @@
-🇪🇸 ¿Prefieres leer esto en español? 👉 [Versión en español](./README.es.md)
-
----
+🇪🇸 [Español](./README.es.md)
 
 # 👋 Hi, I’m Álvaro Magalló Paz
 
