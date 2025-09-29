@@ -71,5 +71,4 @@ Mi trabajo busca unir el **rigor simbólico** con el **realismo neuronal**, desa
 Creo que construir sistemas no se trata solo de lógica, sino de responsabilidad.  
 Crear tecnología que refleje la mente requiere no solo control formal, sino también **cuidado**: por cómo pensamos, cómo vivimos y cómo nos relacionamos.
 
-Veo el trabajo científico como un dilema humano, una forma de crear herramientas al servicio tanto del entendimiento como de la compasión.  
-La ingeniería no es solo una disciplina abstracta, sino una forma de **tender puentes entre mentes**, combinando **disciplina de nivel aeroespacial**, **claridad filosófica** y **diseño centrado en las personas**, para construir sistemas que reflejen tanto el **rigor como la empatía**.
+Veo el trabajo científico como un dilema humano, una forma de crear herramientas al servicio tanto del entendimiento como de la compasión. La ingeniería no es solo una disciplina abstracta, sino una forma de **tender puentes entre mentes**, combinando **disciplina de nivel aeroespacial**, **claridad filosófica** y **diseño centrado en las personas**, para construir sistemas que reflejen tanto el **rigor como la empatía**.
